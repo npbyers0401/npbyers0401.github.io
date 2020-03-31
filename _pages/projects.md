@@ -144,4 +144,4 @@ For this thesis I conducted primary source research at five separate archives in
 
 **Date:** 2015-2016
 
-**Links:** [Thesis Submission Document](https://npbyers0401.github.io/files/GrantProject_752.pdf)
+**Links:** [Thesis Submission Document](https://npbyers0401.github.io/files/ByersSignedThesis2016H.pdf)
