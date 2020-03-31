@@ -9,7 +9,7 @@ author_profile: true
 
 ## Master's Project
 
-### <span style="color: red;"><strong>ECfAIR: A Semi-Supervised Classification Method for Email Collections</strong></span>
+### <span style="color: red;">ECfAIR: A Semi-Supervised Classification Method for Email Collections</span>
 
 **Description:**
 
@@ -28,7 +28,7 @@ For my master's paper I plan to build a tool to evaluate a semi-supervised "ense
 
 ## Work / Side Projects
 
-### <span style="color: red;">bibrepbuilder</strong></span>
+### <span style="color: red;">bibrepbuilder</span>
 
 **Description:**
 
@@ -46,7 +46,7 @@ The software accepts as input a single WoS file and uses several Clarivate APIs 
 
 **Links:** [GitHub](https://github.com/npbyers0401/bibrepbuilder)
 
-### <span style="color: red;">artrepbuilder</strong></span>
+### <span style="color: red;">artrepbuilder</span>
 
 **Description:**
 
@@ -66,7 +66,7 @@ The software accepts as input two WoS files and uses several macros to compile a
 
 ## Class Projects
 
-### <span style="color: red;"><strong>NASA's China Ban: A Predictive Bibliometric Analysis</strong></span>
+### <span style="color: red;">NASA's China Ban: A Predictive Bibliometric Analysis</span>
 
 **Description:**
 
@@ -82,7 +82,7 @@ For this project I attempted to discern what effect, if any, a 2011 Congressiona
 
 **Links:** [Final Report](https://npbyers0401.github.io/files/625FinalReport.pdf)
 
-### <span style="color: red;"><strong>Predicting Wine Scores Based on Review Content</strong></span>
+### <span style="color: red;">Predicting Wine Scores Based on Review Content</span>
 
 **Description:**
 
@@ -98,7 +98,7 @@ For this project my group built and tested models to predict the score of a wine
 
 **Links:** [Final Report](https://npbyers0401.github.io/files/613FinalReport.pdf)
 
-### <span style="color: red;"><strong>Adult Obesity in the United States - a Visualization Dashboard</strong></span>
+### <span style="color: red;">Adult Obesity in the United States - a Visualization Dashboard</span>
 
 **Description:**
 
@@ -114,7 +114,7 @@ For this project I cleaned and prepared a real-world set of county-level health 
 
 **Links:** [Tableau Dashboard](https://public.tableau.com/profile/npbyers#!/vizhome/AdultObesityintheUS_15854094045130/FinalDashboard2)
 
-### <span style="color: red;"><strong>UNC BeAM (Be A Makerspace) Laser Cutters: Four Check System Analysis</strong></span>
+### <span style="color: red;">UNC BeAM (Be A Makerspace) Laser Cutters: Four Check System Analysis</span>
 
 **Description:**
 
@@ -130,7 +130,7 @@ For this project my team conducted a thorough analysis of the check-in and queue
 
 **Links:** [Final Report](https://npbyers0401.github.io/files/LaserCutter_FinalSpec.pdf)
 
-### <span style="color: red;"><strong>Simulated IMLS Grant Proposal: "Digital Archives of Medical History"</strong></span>
+### <span style="color: red;">Simulated IMLS Grant Proposal: "Digital Archives of Medical History"</span>
 
 **Description:**
 
@@ -148,7 +148,7 @@ This project had my team create a simulated proposal for the IMLS National Leade
 
 ## Undergraduate Honors Thesis
 
-### <span style="color: red;"><strong>The Big E and the Mighty T: Ship Memorials in American War Memory</strong></span>
+### <span style="color: red;">The Big E and the Mighty T: Ship Memorials in American War Memory</span>
 
 **Description:**
 
