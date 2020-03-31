@@ -80,7 +80,7 @@ For this project I attempted to discern what effect, if any, a 2011 Congressiona
 
 **Date:** Fall 2019
 
-**Links:** [Final Report](https://npbyers0401.github.io/files/625FinalReport.pdf)
+**Links:** [Final Report](https://npbyers0401.github.io/files/625ProjectReport.pdf)
 
 ### <span style="color: red;">Predicting Wine Scores Based on Review Content</span>
 
@@ -96,7 +96,7 @@ For this project my group built and tested models to predict the score of a wine
 
 **Date:** Spring 2019
 
-**Links:** [Final Report](https://npbyers0401.github.io/files/613FinalReport.pdf)
+**Links:** [Final Report](https://npbyers0401.github.io/files/613ProjectReport.pdf)
 
 ### <span style="color: red;">Adult Obesity in the United States - a Visualization Dashboard</span>
 
