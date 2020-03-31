@@ -26,7 +26,7 @@ For my master's paper I plan to build a tool to evaluate a semi-supervised "ense
 **Links:** [Project Proposal](https://npbyers0401.github.io/files/ProposalFinal.pdf)
 
 
-## Work / Side Projects
+## Side Projects
 
 ### <span style="color: red;">bibrepbuilder</span>
 
