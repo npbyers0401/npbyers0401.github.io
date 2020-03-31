@@ -11,8 +11,6 @@ author_profile: true
 
 ### <span style="color: red;">ECfAIR: A Semi-Supervised Classification Method for Email Collections</span>
 
-**Description:**
-
 ECfAIR - (**E** mail **C** lassification **f** or **A** rchival and **I** nstitutional **R** epositories)
 
 For my master's paper I plan to build a tool to evaluate a semi-supervised "ensemble" classification method for use with large email collections. If successful, this method could be integrated into existing digital archives systems for the appraisal of email collections.
@@ -30,8 +28,6 @@ For my master's paper I plan to build a tool to evaluate a semi-supervised "ense
 
 ### <span style="color: red;">bibrepbuilder</span>
 
-**Description:**
-
 A Python-based tool for compiling multi-publication bibliometric reports using Web of Science (WoS) data
 
 This tool was designed to produce short, descriptive bibliometric reports for sets of scholarly publications. It mimics some of the functionality of the Web of Science web interface but allows for easier manipulation and use of data and charts. The tool was designed to give researchers an accessible starting point for understanding the reach and impact of their publications or those of their team or organization. Alternatively, the tool can be used by librarians producing reports for patrons within their institution.
@@ -47,8 +43,6 @@ The software accepts as input a single WoS file and uses several Clarivate APIs 
 **Links:** [GitHub](https://github.com/npbyers0401/bibrepbuilder)
 
 ### <span style="color: red;">artrepbuilder</span>
-
-**Description:**
 
 An Excel template for compiling single-publication bibliometric reports using Web of Science (WoS) data
 
@@ -68,8 +62,6 @@ The software accepts as input two WoS files and uses several macros to compile a
 
 ### <span style="color: red;">NASA's China Ban: A Predictive Bibliometric Analysis</span>
 
-**Description:**
-
 Term project for INLS 625 - Information Analytics
 
 For this project I attempted to discern what effect, if any, a 2011 Congressional act prohibiting NASA scientists from collaborating bilaterally with Chinese scientists had on the research output of either group. I used citation data from Web of Science to build models that classified publications according to their title and abstract content. I found considerable differences between the two bodies of research, but was unable to make any firm conclusions because of incomplete data.
@@ -83,8 +75,6 @@ For this project I attempted to discern what effect, if any, a 2011 Congressiona
 **Links:** [Final Report](https://npbyers0401.github.io/files/625ProjectReport.pdf)
 
 ### <span style="color: red;">Predicting Wine Scores Based on Review Content</span>
-
-**Description:**
 
 Term project for INLS 613 - Text Mining
 
@@ -100,8 +90,6 @@ For this project my group built and tested models to predict the score of a wine
 
 ### <span style="color: red;">Adult Obesity in the United States - a Visualization Dashboard</span>
 
-**Description:**
-
 Midterm project for INLS 541 - Information Visualization
 
 For this project I cleaned and prepared a real-world set of county-level health data for the years 2010-2019. The graphics illustrate obesity trends across space and time as well as the relationships between obesity and other health-related metrics.
@@ -116,8 +104,6 @@ For this project I cleaned and prepared a real-world set of county-level health 
 
 ### <span style="color: red;">UNC BeAM (Be A Makerspace) Laser Cutters: Four Check System Analysis</span>
 
-**Description:**
-
 Term project for INLS 582 - Systems Analysis
 
 For this project my team conducted a thorough analysis of the check-in and queue system for the university makerspace's laser cutters. We conducted interviews with students and staff and created an array of models to identify areas for improvement. Many of our recommendations were adopted by BeAM following our project submission.
@@ -131,8 +117,6 @@ For this project my team conducted a thorough analysis of the check-in and queue
 **Links:** [Final Report](https://npbyers0401.github.io/files/LaserCutter_FinalSpec.pdf)
 
 ### <span style="color: red;">Simulated IMLS Grant Proposal: "Digital Archives of Medical History"</span>
-
-**Description:**
 
 Term project for INLS 752 - Digital Curation
 
@@ -149,8 +133,6 @@ This project had my team create a simulated proposal for the IMLS National Leade
 ## Undergraduate Honors Thesis
 
 ### <span style="color: red;">The Big E and the Mighty T: Ship Memorials in American War Memory</span>
-
-**Description:**
 
 Honors Thesis completed to satisfy the requirements of both the Plan II Honors Program and the History Honors Program at the University of Texas at Austin
 
