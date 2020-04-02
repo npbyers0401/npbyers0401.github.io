@@ -68,7 +68,7 @@ For this project I attempted to discern what effect, if any, a 2011 Congressiona
 
 **Topics:** Machine Learning, Predictive Analytics, Text Mining
 
-**Tools:** LightSIDE, R (bibliometrix), Microsoft Excel
+**Tools:** LightSIDE, WEKA, R (bibliometrix), Microsoft Excel
 
 **Date:** Fall 2019
 
