@@ -11,7 +11,7 @@ redirect_from:
 
 ## Education
 * **M.S.** - Information Science - School of Information and Library Science - The University of North Carolina at Chapel Hill - December 2020 (*expected*)
-* **Graduate Certificate** - Digital Curation - School of Information and Library Science - The University of North Carolina at Chapel Hill - Decemver 2020 (*expected*)
+* **Graduate Certificate** - Digital Curation - School of Information and Library Science - The University of North Carolina at Chapel Hill - December 2020 (*expected*)
 * **B.A.** - History, German and Plan II Honors - College of Liberal Arts - The University of Texas at Austin - May 2016
 
 ## Summary of Skills
@@ -23,7 +23,7 @@ Data analysis - data visualization - library systems - bibliometrics - instructi
 * *Location*: UNC Libraries Digital Research Services, Chapel Hill, North Carolina
 * *Dates*: January 2020 - May 2020
 * *Duties*:
-  *	Provided on demand assistance to patrons at labs
+  *	Provided on-demand assistance to patrons at labs
   *	Met with patrons after workshops to discuss specific questions
   *	Updated [instructional materials](https://unc-libraries-data.github.io/Python/) for comprehensiveness and clarity
   *	Developed exercises and tutorials to illustrate specific concepts
