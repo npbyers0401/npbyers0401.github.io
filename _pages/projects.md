@@ -9,9 +9,9 @@ author_profile: true
 
 ## Grant-Funded Projects
 
-### <span style="color: red;">On the Books: Jim Crow and the Algorithms of Resistance</span>
+### <span style="color: red;">OnTheBooks: Jim Crow and the Algorithms of Resistance</span>
 
-[*On the Books*](https://unc-libraries-data.github.io/OnTheBooks/) is a text mining project of the University of North Carolina at Chapel Hill Libraries with the goal of discovering Jim Crow and racially-based legislation signed into law in North Carolina between Reconstruction and the Civil Rights Movement (1865-1967). The project has been funded by the [Andrew W. Mellon Foundation](https://mellon.org/) as part of the first cohort for [Collections as Data: Part to Whole](https://collectionsasdata.github.io/part2whole/) and the [ARL Venture Fund](https://www.arl.org/news/arl-launches-venture-fund-to-support-research-and-development-in-member-libraries-proposals-due-february-28/). The major project deliverables include:
+[*OnTheBooks*](https://unc-libraries-data.github.io/OnTheBooks/) is a text mining project of the University of North Carolina at Chapel Hill Libraries with the goal of discovering Jim Crow and racially-based legislation signed into law in North Carolina between Reconstruction and the Civil Rights Movement (1865-1967). The project has been funded by the [Andrew W. Mellon Foundation](https://mellon.org/) as part of the first cohort for [Collections as Data: Part to Whole](https://collectionsasdata.github.io/part2whole/) and the [ARL Venture Fund](https://www.arl.org/news/arl-launches-venture-fund-to-support-research-and-development-in-member-libraries-proposals-due-february-28/). The major project deliverables include:
 
 1. A publicly accessible, plain-text corpus of North Carolina Session Laws from 1865-1967 for general legal and historical research, and a list of racially-biased laws discovered.
 2. A public git repository containing general scripts, open source software, and documentation for the benefit of future collections as data projects.
