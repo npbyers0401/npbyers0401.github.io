@@ -7,6 +7,27 @@ author_profile: true
 
 {% include base_path %}
 
+## Grant-Funded Projects
+
+### <span style="color: red;">On the Books: Jim Crow and the Algorithms of Resistance</span>
+
+[*On the Books*](https://unc-libraries-data.github.io/OnTheBooks/) is a text mining project of the University of North Carolina at Chapel Hill Libraries with the goal of discovering Jim Crow and racially-based legislation signed into law in North Carolina between Reconstruction and the Civil Rights Movement (1865-1967). The project has been funded by the [Andrew W. Mellon Foundation](https://mellon.org/) as part of the first cohort for [Collections as Data: Part to Whole](https://collectionsasdata.github.io/part2whole/) and the [ARL Venture Fund](https://www.arl.org/news/arl-launches-venture-fund-to-support-research-and-development-in-member-libraries-proposals-due-february-28/). The major project deliverables include:
+
+1. A publicly accessible, plain-text corpus of North Carolina Session Laws from 1865-1967 for general legal and historical research, and a list of racially-biased laws discovered.
+2. A public git repository containing general scripts, open source software, and documentation for the benefit of future collections as data projects.
+3. A short white paper describing our methods and workflows for accurate, large-scale OCR text conversion and text analysis for future teams seeking to create large-scale digital corpora and/or experiment with data-driven discovery.
+4. A website for educators and researchers interested in Southern and African American History that lists and contextualizes North Carolina segregation laws we uncover from the Jim Crow era (1865/66 - 1967).
+
+As a Documentation and Content Developer, my role in the project includes cleaning and processing of the corpus, creation of project scripts and workflows, preparation of visual materials for presentations, and the development of Jupyter-based documentation for project code.
+
+**Topics:** Machine Learning, Digital Archives, Text Mining, North Carolina History, Jim Crow and Racism in the United States
+
+**Tools:** Python, Jupyter, Git/GitHub
+
+**Date:** 2020 (Ongoing)
+
+**Links:** [Project Page](https://unc-libraries-data.github.io/OnTheBooks/)
+
 ## Master's Project
 
 ### <span style="color: red;">ECfAIR: A Semi-Supervised Classification Method for Email Collections</span>
@@ -19,7 +40,7 @@ For my master's paper I plan to build a tool to evaluate a semi-supervised "ense
 
 **Tools:** Python (Scikit Learn)
 
-**Date:** 2019-2020
+**Date:** 2019-2020 (Ongoing)
 
 **Links:** [Project Proposal](https://npbyers0401.github.io/files/ProposalFinal.pdf)
 

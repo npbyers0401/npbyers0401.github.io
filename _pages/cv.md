@@ -10,37 +10,54 @@ redirect_from:
 {% include base_path %}
 
 ## Education
-* **M.S.** - Information Science - School of Information and Library Science - The University of North Carolina at Chapel Hill - 2020 (*expected*)
-* **Graduate Certificate** - Digital Curation - School of Information and Library Science - The University of North Carolina at Chapel Hill - 2020 (*expected*)
-* **B.A.** - History, German and Plan II Honors - College of Liberal Arts - The University of Texas at Austin - 2016
+* **M.S.** - Information Science - School of Information and Library Science - The University of North Carolina at Chapel Hill - December 2020 (*expected*)
+* **Graduate Certificate** - Digital Curation - School of Information and Library Science - The University of North Carolina at Chapel Hill - Decemver 2020 (*expected*)
+* **B.A.** - History, German and Plan II Honors - College of Liberal Arts - The University of Texas at Austin - May 2016
 
 ## Summary of Skills
-Programming - data analysis - data visualization - bibliometrics - instructional design - web design/maintenance - project management - grant proposal writing - research methodology & design - systems analysis - German - library reference services - library systems - archival processing - digital records management - library outreach/promotion
+Data analysis - data visualization - library systems - bibliometrics - instructional design - technical writing - programming - web design/maintenance - project management - grant proposal writing - research methodology & design - systems analysis - library reference services - archival processing - digital records management - library outreach/promotion
 
 ## Instructional Experience
 
 **Field Experience - Python Open Labs**
 * *Location*: UNC Libraries Digital Research Services, Chapel Hill, North Carolina
-* *Dates*: January 2020-Present
+* *Dates*: January 2020 - May 2020
 * *Duties*:
-  *	Provide on demand assistance to patrons at labs
-  *	Meet with patrons after workshops to discuss specific questions
-  *	Update instructional materials for comprehensiveness and clarity
-  *	Develop exercises and tutorials to illustrate specific concepts (see [link](https://unc-libraries-data.github.io/Python/Jupyter/PandasExercises.html))
-  *	Create demonstration scripts for a department-wide research project, OnTheBooks
-  *	Write technical documentation for the OnTheBooks project
+  *	Provided on demand assistance to patrons at labs
+  *	Met with patrons after workshops to discuss specific questions
+  *	Updated [instructional materials](https://unc-libraries-data.github.io/Python/) for comprehensiveness and clarity
+  *	Developed exercises and tutorials to illustrate specific concepts
 
 ## Professional Experience
+**Graduate Research Assistant**
+* *Location*: UNC Libraries Digital Research Services, Chapel Hill, North Carolina
+* *Dates*: March 2020 - Present
+* *Project*: [OnTheBooks: Jim Crow and Algorithms of Resistance](https://unc-libraries-data.github.io/OnTheBooks/)
+* *Duties*:
+  *	Write Python scripts for data preparation
+  *	Collaborate with team members to plan project stages
+  *	Create detailed Jupyter notebooks to document project code
+  *	Prepare visual materials for research presentations
+  * Plan and implement workflows for data cleaning
+  * Prepare GitHub repository for project documentation & code
+
 **Technology & Analytics Intern**
 * *Location*: US EPA Library, Research Triangle Park, North Carolina
-* *Dates*: January 2019-Present
+* *Dates*: January 2019 - Present
 * *Duties*:
-  *	Develop automated solutions to improve library workflow efficiency
-  *	Design bibliometric visualization and analysis strategies for patrons
-  *	Streamline library databases and data management practices
-  *	Manage and maintain the library’s intranet website
-  *	Perform updates on electronic resource subscriptions
+  *	Develop Python- and VBA-based solutions to improve library workflows
+  *	Create user-oriented tools for accessing Clarivate Analytics REST APIs
+  *	Design bibliometric data visualization and analysis strategies for patrons
   *	Fulfill reference requests for patrons
+  *	Streamline Microsoft Access database structures and queries (SQL)
+  *	Manage and maintain the library’s intranet website (HTML/CSS)
+  *	Update Springshare LibGuides for usability and robustness (CSS/JS)
+  * Synthesize Google Analytics and Springshare usage data to improve library decision-making
+  * Troubleshoot and provide technical assistance with databases and web platforms
+  * Perform updates on electronic resource subscriptions
+  * Record circulation transactions using the EPA’s in-house ILS, (EPA Online Library System)
+  * Cross-reference library dispersal lists using EPA National Library Catalog and OCLC
+  * Run inventory checks on physical holdings using EPA’s in-house ILS (EPA Online Library System)
 
 **Graduate Research Assistant**
 * *Location*: North Carolina Digital Heritage Center, Chapel Hill, North Carolina
@@ -48,7 +65,7 @@ Programming - data analysis - data visualization - bibliometrics - instructional
 * *Duties*:
   *	Scanned textual and photographic materials for digitization
   *	Prepared metadata for online  archival databases
-  *	Integrated new batches into online content management system
+  *	Integrated new batches into online content management system (CONTENTdm)
   *	Published blog posts to advertise digitized materials
 
 **Natchez Trace Collection Researcher**
@@ -95,15 +112,24 @@ Programming - data analysis - data visualization - bibliometrics - instructional
 * VOSViewer
 * ggplot
 
-**Web design**
+**Web design / content management**
 
 * HTML5
 * CSS
+* WordPress
+* Springshare (LibGuides)
+
+**Integrated Library Systems (ILS)**
+* EPA Online Library System (OLS)
+* ILLiad
 
 **Bibliometrics**
 
 * Bibliometrix (R package)
 * Sci2
+* Altmetric
+* Clarivate Analytics (InCites, Web of Science)
+* Publish or Perish (Google Scholar)
 
 **Version control**
 
@@ -165,6 +191,9 @@ Programming - data analysis - data visualization - bibliometrics - instructional
 *	R.W. and Kathleen Lindsey Unrestricted Endowed Presidential Scholarship, May 2015
 *	George Gardere Unrestricted Endowed Presidential Scholarship, May 2014
 *	Linnet F. Deily Endowed Presidential Scholarship, April 2014
+* Normandy Scholars Program, January 2014
+* Houston Livestock Show and Rodeo Achievement Scholarship, July 2014
+* Houston Livestock Show and Rodeo Metropolitan Scholarship, May 2012
 
 
 ## Professional Affiliations
