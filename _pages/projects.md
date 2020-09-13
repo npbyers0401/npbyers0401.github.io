@@ -26,7 +26,7 @@ As a Documentation and Content Developer, my role in the project includes cleani
 
 **Date:** 2020 (Ongoing)
 
-**Links:** [Project Website](https://unc-libraries-data.github.io/OnTheBooks/), [XML Law Files](https://cdr.lib.unc.edu/concern/data_sets/hx11xm948?locale=en), [White Paper](https://doi.org/10.17615/hvz4-sr14), [Code and Documentation](https://github.com/UNC-Libraries-data/OnTheBooks)
+**Links:** [Project Website](https://onthebooks.lib.unc.edu/), [XML Law Files](https://cdr.lib.unc.edu/concern/data_sets/hx11xm948?locale=en), [White Paper](https://doi.org/10.17615/hvz4-sr14), [Code and Documentation](https://github.com/UNC-Libraries-data/OnTheBooks)
 
 ## Master's Project
 
