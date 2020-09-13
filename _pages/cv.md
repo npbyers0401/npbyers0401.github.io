@@ -145,7 +145,7 @@ Data analysis - data visualization - library systems - bibliometrics - instructi
 
 **General**
 
-* Microsoft 365 ([development experience](https://github.com/npbyers0401/artrepbuilder))
+* Microsoft Office 365 ([development experience](https://github.com/npbyers0401/artrepbuilder))
     * Excel
     * PowerPoint
     * Access
