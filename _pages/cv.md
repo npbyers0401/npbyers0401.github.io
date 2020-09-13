@@ -10,43 +10,30 @@ redirect_from:
 {% include base_path %}
 
 ## Education
-* **M.S.** - Information Science - School of Information and Library Science - The University of North Carolina at Chapel Hill - December 2020 (*expected*)
-* **Graduate Certificate** - Digital Curation - School of Information and Library Science - The University of North Carolina at Chapel Hill - December 2020 (*expected*)
+* **M.S.** - Information Science - School of Information and Library Science - The University of North Carolina at Chapel Hill - November 2020 (*expected*)
 * **B.A.** - History, German and Plan II Honors - College of Liberal Arts - The University of Texas at Austin - May 2016
 
-## Summary of Skills
-Data analysis - data visualization - library systems - bibliometrics - instructional design - technical writing - programming - web design/maintenance - project management - grant proposal writing - research methodology & design - systems analysis - library reference services - archival processing - digital records management - library outreach/promotion
-
-## Instructional Experience
-
-**Field Experience - Python Open Labs**
-* *Location*: UNC Libraries Digital Research Services, Chapel Hill, North Carolina
-* *Dates*: January 2020 - May 2020
-* *Duties*:
-  *	Provided on-demand assistance to patrons at labs
-  *	Met with patrons after workshops to discuss specific questions
-  *	Updated [instructional materials](https://unc-libraries-data.github.io/Python/) for comprehensiveness and clarity
-  *	Developed exercises and tutorials to illustrate specific concepts
 
 ## Professional Experience
-**Graduate Research Assistant**
+**Documentation and Content Developer**
 * *Location*: UNC Libraries Digital Research Services, Chapel Hill, North Carolina
 * *Dates*: March 2020 - Present
 * *Project*: [OnTheBooks: Jim Crow and Algorithms of Resistance](https://unc-libraries-data.github.io/OnTheBooks/)
 * *Duties*:
-  *	Write Python scripts for data preparation
-  *	Collaborate with team members to plan project stages
-  *	Create detailed Jupyter notebooks to document project code
+  * Construct a historical text corpus for teaching and digital humanities research
+  *	Write Python [scripts](https://github.com/UNC-Libraries-data/OnTheBooks/tree/master/code/split_cleanup) for data preparation
+  *	Collaborate with team members to plan project stages and workflows
+  *	Create detailed Jupyter notebooks to [document](https://github.com/UNC-Libraries-data/OnTheBooks/tree/master/examples) project code
   *	Prepare visual materials for research presentations
-  * Plan and implement workflows for data cleaning
-  * Prepare GitHub repository for project documentation & code
+  * Compile GitHub repository for project documentation & code
 
 **Technology & Analytics Intern**
 * *Location*: US EPA Library, Research Triangle Park, North Carolina
 * *Dates*: January 2019 - Present
 * *Duties*:
   *	Develop Python- and VBA-based solutions to improve library workflows
-  *	Create user-oriented tools for accessing Clarivate Analytics REST APIs
+  *	Create user-oriented [tools](https://github.com/npbyers0401/bibrepbuilder) for accessing Clarivate Analytics REST APIs
+  *	Implement file management workflows using batch scripts and command line prompts
   *	Design bibliometric data visualization and analysis strategies for patrons
   *	Fulfill reference requests for patrons
   *	Streamline Microsoft Access database structures and queries (SQL)
@@ -54,28 +41,35 @@ Data analysis - data visualization - library systems - bibliometrics - instructi
   *	Update Springshare LibGuides for usability and robustness (CSS/JS)
   * Synthesize Google Analytics and Springshare usage data to improve library decision-making
   * Troubleshoot and provide technical assistance with databases and web platforms
-  * Perform updates on electronic resource subscriptions
-  * Record circulation transactions using the EPA’s in-house ILS, (EPA Online Library System)
-  * Cross-reference library dispersal lists using EPA National Library Catalog and OCLC
-  * Run inventory checks on physical holdings using EPA’s in-house ILS (EPA Online Library System)
+  * Draft and publish a monthly newsletter
+  * Perform routine circulation duties using the EPA ILS
+
+**Field Experience - Python Open Labs (workshop series)**
+  * *Location*: UNC Libraries Digital Research Services, Chapel Hill, North Carolina
+  * *Dates*: January 2020 - May 2020
+  * *Duties*:
+    *	Provided on-demand assistance to patrons at labs
+    *	Met with patrons after workshops to discuss specific questions
+    *	Assessed and updated [instructional materials](https://unc-libraries-data.github.io/Python/) for comprehensiveness and clarity
+    *	Developed [exercises](https://unc-libraries-data.github.io/Python/Jupyter/PandasExercises.html) and tutorials to illustrate specific concepts
 
 **Graduate Research Assistant**
 * *Location*: North Carolina Digital Heritage Center, Chapel Hill, North Carolina
 * *Dates*: August 2018 - January 2019
 * *Duties*:
   *	Scanned textual and photographic materials for digitization
-  *	Prepared metadata for online  archival databases
-  *	Integrated new batches into online content management system (CONTENTdm)
-  *	Published blog posts to advertise digitized materials
+  *	Prepared DCMI-adherent metadata for repository ingest
+  *	Added collections to [online repository](https://www.digitalnc.org/) via CONTENTdm
+  *	Published WordPress [blog posts](https://www.digitalnc.org/blog/author/npbyers/) for outreach and advertisement purposes
 
 **Natchez Trace Collection Researcher**
 * *Location*: Dolph Briscoe Center for American History, Austin, Texas
 * *Dates*: June 2016 - January 2017
 * *Duties*:
-  *	Identified and arranged historical materials from the American South
+  *	Identified, arranged, and cataloged historical collections from the American South
   *	Organized and described findings to best aid future research
-  *	Created and published XML finding aids (see [link](https://legacy.lib.utexas.edu/taro/utcah/03923/cah-03923.html))
-  *	Selected and items for public exhibits and helped plan their exhibition
+  *	Created DCMI-adherent DACS [finding aids](https://legacy.lib.utexas.edu/taro/utcah/03923/cah-03923.html) for hosting with [TARO](https://legacy.lib.utexas.edu/taro/)
+  *	Selected items for [public exhibits](https://www.cah.utexas.edu/news/press_release.php?press=press_southern_exhibit) and helped plan their exhibition
   *	Identified topics for press publications and assisted in writing articles
   *	Performed preliminary maintenance and recommended steps for full preservation
 
@@ -85,11 +79,22 @@ Data analysis - data visualization - library systems - bibliometrics - instructi
 * *Duties*:
   *	Rehoused, processed, and preserved collections to facilitate access
   *	Updated and created XML finding aids for different collections
-  *	Digitized print and AV materials for electronic archival databases
+  *	Digitized print and AV materials for online repositories
   *	Performed research and wrote materials for Briscoe Center publications
   *	Fulfilled research and reference requests
 
+## Summary of Skills
+Data analysis - data visualization - library systems - bibliometrics - instructional design - technical writing - programming - web design/maintenance - project management - grant proposal writing - research methodology & design - systems analysis - library reference services - archival processing - digital records management - library outreach/promotion - metadata creation
+
 ## Software & Technology Experience
+
+**Content Management Systems**
+
+* Springshare LibApps
+* CONTENTdm
+* WordPress
+* GitHub Pages
+
 **Programming languages**
 
 * Python
@@ -112,12 +117,11 @@ Data analysis - data visualization - library systems - bibliometrics - instructi
 * VOSViewer
 * ggplot
 
-**Web design / content management**
+**Web Design**
 
 * HTML5
 * CSS
-* WordPress
-* Springshare (LibGuides)
+
 
 **Integrated Library Systems (ILS)**
 * EPA Online Library System (OLS)
@@ -135,20 +139,17 @@ Data analysis - data visualization - library systems - bibliometrics - instructi
 
 * Git/GitHub
 
-**Relational database GUI**
-
-* Navicat
-
 **Digital preservation environment**
 
 * BitCurator
 
 **General**
 
-* Microsoft Office (development experience)
+* Microsoft 365 ([development experience](https://github.com/npbyers0401/artrepbuilder))
     * Excel
     * PowerPoint
     * Access
+    * Power Automate
 
 ## Research Experience
 
@@ -157,7 +158,7 @@ Data analysis - data visualization - library systems - bibliometrics - instructi
   * *Dates:* Fall 2019 - Present
   * *Advisor:* Dr. Christopher Lee
   * *Details*
-    * Develop a software tool for automatic classification email collections
+    * Develop a software tool for automatic appraisal of email collections
     * Process and clean an existing dataset for testing purposes
     * Optimize tool for parallelization and multi-environment use
     * Evaluate tool using traditional metrics

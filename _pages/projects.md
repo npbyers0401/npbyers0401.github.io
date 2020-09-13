@@ -11,7 +11,7 @@ author_profile: true
 
 ### <span style="color: red;">OnTheBooks: Jim Crow and the Algorithms of Resistance</span>
 
-[*OnTheBooks*](https://unc-libraries-data.github.io/OnTheBooks/) is a text mining project of the University of North Carolina at Chapel Hill Libraries with the goal of discovering Jim Crow and racially-based legislation signed into law in North Carolina between Reconstruction and the Civil Rights Movement (1865-1967). The project has been funded by the [Andrew W. Mellon Foundation](https://mellon.org/) as part of the first cohort for [Collections as Data: Part to Whole](https://collectionsasdata.github.io/part2whole/) and the [ARL Venture Fund](https://www.arl.org/news/arl-launches-venture-fund-to-support-research-and-development-in-member-libraries-proposals-due-february-28/). The major project deliverables include:
+[*OnTheBooks*](https://onthebooks.lib.unc.edu/) is a [collections as data](https://collectionsasdata.github.io/part2whole/) and machine learning project of the University of North Carolina at Chapel Hill Libraries with the goal of discovering Jim Crow and racially-based legislation signed into law in North Carolina between Reconstruction and the Civil Rights Movement (1865-1967). The project has been funded by the [Andrew W. Mellon Foundation](https://mellon.org/) as part of the first cohort for [Collections as Data: Part to Whole](https://collectionsasdata.github.io/part2whole/) and the [ARL Venture Fund](https://www.arl.org/news/arl-launches-venture-fund-to-support-research-and-development-in-member-libraries-proposals-due-february-28/). The major project deliverables include:
 
 1. A publicly accessible, plain-text corpus of North Carolina Session Laws from 1865-1967 for general legal and historical research, and a list of racially-biased laws discovered.
 2. A public git repository containing general scripts, open source software, and documentation for the benefit of future collections as data projects.
@@ -26,7 +26,7 @@ As a Documentation and Content Developer, my role in the project includes cleani
 
 **Date:** 2020 (Ongoing)
 
-**Links:** [Project Page](https://unc-libraries-data.github.io/OnTheBooks/)
+**Links:** [Project Website](https://unc-libraries-data.github.io/OnTheBooks/), [XML Law Files](https://cdr.lib.unc.edu/concern/data_sets/hx11xm948?locale=en), [White Paper](https://doi.org/10.17615/hvz4-sr14), [Code and Documentation](https://github.com/UNC-Libraries-data/OnTheBooks)
 
 ## Master's Project
 
