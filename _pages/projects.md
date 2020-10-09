@@ -61,7 +61,7 @@ The software accepts as input a single WoS file and uses several Clarivate APIs 
 
 **Date:** 2019-2020
 
-**Links:** [GitHub](https://github.com/npbyers0401/bibrepbuilder)
+**Links:** (Currently proprietary)
 
 ### <span style="color: red;">artrepbuilder</span>
 
@@ -77,7 +77,7 @@ The software accepts as input two WoS files and uses several macros to compile a
 
 **Date:** 2019
 
-**Links:** [GitHub](https://github.com/npbyers0401/artrepbuilder)
+**Links:** (Currently proprietary)
 
 ## Class Projects
 
